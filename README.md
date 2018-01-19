@@ -1,5 +1,5 @@
 # slashbot
-IRC Bot that reads slashdot.org stories into a chat room
+IRC Bot that reads slashdot.org storie titles into a chat room
 Using Python3, beautifulsoup, urlopen
 
 bigbot.py is the bot class
